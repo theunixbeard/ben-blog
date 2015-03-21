@@ -8,3 +8,4 @@ gem 'middleman-livereload', '~> 3.1.0'
 gem 'builder', '~> 3.0'
 
 gem 'slim'
+gem 'sass'
